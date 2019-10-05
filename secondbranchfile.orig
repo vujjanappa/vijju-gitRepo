@@ -1,0 +1,7 @@
+this is second brnach file
+<<<<<<< HEAD
+this is adding line form repo2 local 
+||||||| merged common ancestors
+=======
+adding one more line to this file from repo1 local
+>>>>>>> 517b0b7deaa490a616c07e4a321dc48872abdbda

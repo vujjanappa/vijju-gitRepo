@@ -1,4 +1,6 @@
 this is m firstg git file
  Viju this is used for merge
+this is used for merge
+adding to test merge from repo2 local this is used for merge
 this is sutomate merge fle
 
