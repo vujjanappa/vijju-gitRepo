@@ -1,2 +1,4 @@
 this is m firstg git file
 this is used for merge
+this is sutomate merge fle
+
