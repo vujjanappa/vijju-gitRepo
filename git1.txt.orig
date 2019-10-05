@@ -1,9 +1,10 @@
+this is m firstg git file
 <<<<<<< HEAD
-this is m firstg git file
-this is used for merge
+ Viju this is used for merge
 ||||||| merged common ancestors
-this is m firstg git file
+this is used for merge
 =======
-this is m firstg git file
+adding to test merge from repo2 local this is used for merge
+>>>>>>> 61cc9fc3cd2d154f7bae0532fdb3a7b61ae731b2
 this is sutomate merge fle
->>>>>>> automate
+
