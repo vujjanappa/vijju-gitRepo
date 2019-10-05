@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+vfbsjbvjkzsf<html>
+<h1>this bsjjf is feature1 change from repo1 branch html</ht>
+||||||| merged common ancestors
+<html>
+<h1>this is feature1 change from repo1 branch html</ht>
+=======
+<html>
+<<<<<<< HEAD
+<h1>this is feature1 repo2 change branch html</ht>
+||||||| merged common ancestors
+<h1>this is feature1 branch html</ht>
+=======
+<h1>this is feature1 change from repo1 branch html</ht>
+>>>>>>> 6831dccde8a81ac3a728ece28366741aca49aeac
+>>>>>>> 1816cb611bfc4a461b054540ef90bd12a0e465d7
+</html>
