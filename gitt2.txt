@@ -1,1 +1,2 @@
 git second file
+thisis added in automate branch
